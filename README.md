@@ -36,3 +36,5 @@ Aplicación móvil para **optimizar el tiempo de viajeros y profesionales ocupad
 ├── Frontend: Android Studio (Java/Kotlin)
 ├── Backend: Firebase (o BBDD local)
 └── Web: Angular (landing page)
+
+<div align="center"> <sub>Hecho con ❤️ por Christian & Mario | </sub> </div>
