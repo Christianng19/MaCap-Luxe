@@ -1,4 +1,4 @@
-# <img src="https://ibb.co/8DZhs9dy](https://i.ibb.co/XZRwLt3n/macap.jpg" alt="MACAP Logo" width="200"/>
+# <div align="center"> <img src="https://preview.redd.it/tener-una-imagen-random-hace-que-la-publicaci%C3%B3n-tenga-m%C3%A1s-v0-6frn21rqrtoc1.jpeg?width=640&crop=smart&auto=webp&s=e109a6ff409c369a7be16d3b7d8c885fa69c8abf" alt="MACAP Logo" width="200"/> </div>
 
 <div align="center">
   <h1 style="color: #2E86C1;">📱 MACAP - SERVICE APP</h1>
@@ -36,3 +36,5 @@ Aplicación móvil para **optimizar el tiempo de viajeros y profesionales ocupad
 ├── Frontend: Android Studio (Java/Kotlin)
 ├── Backend: Firebase (o BBDD local)
 └── Web: Angular (landing page)
+```
+<div align="center"> <sub>Hecho con ❤️ por Christian & Mario </div>
