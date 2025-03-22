@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "773161031863",
+    "project_id": "macap-34b62",
+    "storage_bucket": "macap-34b62.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773161031863:android:8d52b24817f336deb85532",
+        "android_client_info": {
+          "package_name": "com.plan.macap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4dVnuP5_4r9EcTt9uoXcsVBvpybFTx-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
